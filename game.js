@@ -461,8 +461,6 @@ function bateuNoMonstro(player, monstro){
     );
 
 
-    monstro.disableBody(true, true);
-
 }
 
 
